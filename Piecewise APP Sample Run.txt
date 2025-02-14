@@ -1,0 +1,4 @@
+Enter a number: 
+>>7
+
+f(x) = 57.00
